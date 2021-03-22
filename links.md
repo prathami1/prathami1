@@ -1,6 +1,6 @@
-```python
+```py
 def portfolio():
-  prathami1.studio
+  prathami1.github.io
 
 def quickLinks():
   ql.prathami1.studio
