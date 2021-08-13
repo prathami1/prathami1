@@ -11,17 +11,22 @@
 <h3 align="center">Familiar Stacks</h3>
 
 <p align="center">
-  <img src="https://img.icons8.com/color/64/000000/python--v1.png"/>
-  <img src="https://img.icons8.com/ios-glyphs/60/000000/test-tube.png"/>
-  <img src="https://img.icons8.com/color/64/000000/mongodb.png"/>
-  <img src="https://img.icons8.com/material-outlined/64/000000/sql.png"/>
-  <img src="https://img.icons8.com/color/64/000000/c-plus-plus-logo.png"/>
-  <img src="https://img.icons8.com/office/64/000000/react.png"/>
-  <img src="https://img.icons8.com/color/64/000000/javascript--v1.png"/>
-  <img src="https://img.icons8.com/glyph-neue/64/000000/android--v1.png"/>
-  <img src="https://img.icons8.com/color/64/000000/firebase.png"/>
-  <img src="https://img.icons8.com/ios-glyphs/64/000000/java-coffee-cup-logo.png"/>
-  <img src="https://img.icons8.com/color/64/000000/swift.png"/>
+  Each icon is linked with a project that implements the framework it represents.
+</p>
+
+<p align="center">
+  <a href= "https://github.com/prathami1/spotify-analysis" target="_blank"><img src="https://img.icons8.com/color/64/000000/python--v1.png"/></a>
+  <a href= "https://github.com/prathami1/spotify-analysis" target="_blank"><img src="https://img.icons8.com/ios-glyphs/60/000000/test-tube.png"/></a>
+  <a href= "https://github.com/prathami1/covid-analysis" target="_blank"><img src="https://img.icons8.com/color/64/000000/mongodb.png"/></a>
+  <a href= "https://github.com/prathami1/covid-analysis" target="_blank"><img src="https://img.icons8.com/material-outlined/64/000000/sql.png"/></a>
+  <a href= "https://github.com/prathami1/vex-tower-takeover" target="_blank"><img src="https://img.icons8.com/color/64/000000/c-plus-plus-logo.png"/></a>
+  <a href= "https://github.com/prathami1/dijkstra-visualization" target="_blank"><img src="https://img.icons8.com/office/64/000000/react.png"/></a>
+  <a href= "https://github.com/prathami1/dijkstra-visualization" target="_blank"><img src="https://img.icons8.com/color/64/000000/javascript--v1.png"/></a>
+  <a href= "https://github.com/prathami1/farming-scout" target="_blank"><img src="https://img.icons8.com/glyph-neue/64/000000/android--v1.png"/></a>
+  <a href= "https://github.com/prathami1/farming-scout" target="_blank"><img src="https://img.icons8.com/color/64/000000/firebase.png"/></a>
+  <a href= "https://github.com/prathami1/farming-scout" target="_blank"><img src="https://img.icons8.com/color/64/000000/kotlin.png"/></a>
+  <a href= "https://github.com/prathami1/farming-scout" target="_blank"><img src="https://img.icons8.com/ios-glyphs/64/000000/java-coffee-cup-logo.png"/></a>
+  <a href= "https://p.prathami1.tech" target="_blank"><img src="https://img.icons8.com/color/64/000000/swift.png"/></a>
 </p>
 
 <h4 align="center">Made with ❤️ by Pratham I</h4>
