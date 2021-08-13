@@ -21,7 +21,7 @@
   <a href= "https://github.com/prathami1/covid-analysis" target="_blank"><img src="https://img.icons8.com/material-outlined/64/000000/sql.png"/></a>
   <a href= "https://github.com/prathami1/vex-tower-takeover" target="_blank"><img src="https://img.icons8.com/color/64/000000/c-plus-plus-logo.png"/></a>
   <a href= "https://github.com/prathami1/dijkstra-visualization" target="_blank"><img src="https://img.icons8.com/office/64/000000/react.png"/></a>
-  <a href= "https://github.com/prathami1/dijkstra-visualization" target="_blank"><img src="https://img.icons8.com/color/64/000000/javascript--v1.png"/></a>
+  <a href= "https://github.com/prathami1/news" target="_blank"><img src="https://img.icons8.com/color/64/000000/javascript--v1.png"/></a>
   <a href= "https://github.com/prathami1/farming-scout" target="_blank"><img src="https://img.icons8.com/glyph-neue/64/000000/android--v1.png"/></a>
   <a href= "https://github.com/prathami1/farming-scout" target="_blank"><img src="https://img.icons8.com/color/64/000000/firebase.png"/></a>
   <a href= "https://github.com/prathami1/farming-scout" target="_blank"><img src="https://img.icons8.com/color/64/000000/kotlin.png"/></a>
