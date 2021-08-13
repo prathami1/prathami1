@@ -11,7 +11,7 @@
 <h3 align="center">Familiar Stacks</h3>
 
 <p align="center">
-  Each icon is linked with a project that implements the framework it represents.
+  Each icon is linked to a project that implements the framework the icon represents.
 </p>
 
 <p align="center">
