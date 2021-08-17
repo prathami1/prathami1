@@ -26,7 +26,7 @@
   <a href= "https://github.com/prathami1/farming-scout" target="_blank"><img src="https://img.icons8.com/color/64/000000/firebase.png"/></a>
   <a href= "https://github.com/prathami1/farming-scout" target="_blank"><img src="https://img.icons8.com/color/64/000000/kotlin.png"/></a>
   <a href= "https://github.com/prathami1/farming-scout" target="_blank"><img src="https://img.icons8.com/ios-glyphs/64/000000/java-coffee-cup-logo.png"/></a>
-  <a href= "https://p.prathami1.tech" target="_blank"><img src="https://img.icons8.com/color/64/000000/swift.png"/></a>
+  <a href= "https://github.com/prathami1/todo-swift" target="_blank"><img src="https://img.icons8.com/color/64/000000/swift.png"/></a>
 </p>
 
 <h4 align="center">Made with ❤️ by Pratham I</h4>
