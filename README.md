@@ -1,7 +1,7 @@
 <h2 align="center">Computer Science @ Illinois</h2>
 
 <p align="center">
-  <a href= "https://p.prathami1.tech" target="_blank"><img src="https://img.icons8.com/metro/92/000000/globe.png"/></a>
+  <a href= "https://personal-website-phi-three.vercel.app" target="_blank"><img src="https://img.icons8.com/metro/92/000000/globe.png"/></a>
   <a href= "https://github.com/prathami1?tab=repositories" target="_blank"><img src="https://img.icons8.com/ios-filled/92/000000/repository.png"/></a>
   <a href= "https://linkedin.com/in/prathami1" target="_blank"><img src="https://img.icons8.com/plumpy/96/000000/linkedin-circled.png"/></a>
   <a href= "https://instagram.com/prathami1" target="_blank"><img src="https://img.icons8.com/cotton/100/000000/instagram.png"/></a>
