@@ -29,4 +29,4 @@
   <a href= "https://github.com/prathami1/todo-swift" target="_blank"><img src="https://img.icons8.com/color/64/000000/swift.png"/></a>
 </p>
 
-<h4 align="center">Made with ❤️ by Pratham I</h4>
+<!--<h4 align="center">Made with ❤️ by Pratham I</h4>-->
