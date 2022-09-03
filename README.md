@@ -1,4 +1,4 @@
-<h2 align="center">Computer Science @ <img width="13px" src="https://marketing.illinois.edu/app/uploads/2021/09/block-I-primary.png"/> Illinois</h2>
+<h2 align="center">Computer Science @ <img width="13px" src="https://marketing.illinois.edu/wp-content/uploads/2021/09/block-I-primary.png"/> Illinois</h2>
 
 <p align="center">
   <a href= "https://personal-website-phi-three.vercel.app" target="_blank"><img src="https://img.icons8.com/metro/92/000000/globe.png"/></a>
