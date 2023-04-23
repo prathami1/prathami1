@@ -1,4 +1,4 @@
-<h3 align="center">Computer Science @ <img width="13px" src="https://marketing.illinois.edu/wp-content/uploads/2021/09/block-I-primary.png"/> Illinois</h3>
+<h2 align="center">Computer Science @ <img width="13px" src="https://marketing.illinois.edu/wp-content/uploads/2021/09/block-I-primary.png"/> Illinois</h2>
 
 <div align="center">
     <a href="https://linkedin.com/in/prathami1">
@@ -7,7 +7,7 @@
     <a href="https://instagram.com/prathami1">
         <img src="https://skillicons.dev/icons?i=instagram&theme=light" alt="My Skills">
     </a>
-    <a href="https://github.com/prathami1/repositories">
+    <a href="https://github.com/prathami1?tab=repositories">
         <img src="https://skillicons.dev/icons?i=github&theme=dark" alt="My Skills">
     </a>
     <a href="https://prathaminamdar.com">
